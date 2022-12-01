@@ -1,5 +1,4 @@
 ---
 Welcome to my blog
 ---
-### I want to introduce you guys to the wonderfull world of coding
-
+### **I want to introduce you guys to the wonderfull world of coding** 🍺
